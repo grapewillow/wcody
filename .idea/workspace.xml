@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5d7a5ff-5889-4f92-bd25-2f22ddf548db" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/cloudy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/dawn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/day-clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/day-cloudy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/day-drizzle-rain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/day-fog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/day-heavy-rain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/day-rain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/day-snow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/day-thunderstorm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/day-torrential-rain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/night-clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/night-cloudy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/night-drizzle-rain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/night-fog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/night-heavy-rain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/night-rain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/night-snow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/night-thunderstorm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/night-torrential-rain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/weather-icons/wind.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/api/weather.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Intro/Intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Intro/Intro.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Login/FindPassword.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Login/FindPassword.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Login/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Login/Login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Main/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Main/Main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Register/Register.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Register/Register.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/types/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/config/HttpClientProvider.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/config/SmtpConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/controller/AuthController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/controller/MainController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/controller/RegisterController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/controller/WeatherController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/dto/FindPasswordRequest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/dto/LoginRequest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/dto/LoginResponse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/dto/RegisterRequest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/dto/RegisterResponse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/dto/WeatherData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/dto/weather/WeatherApiResponse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/factory/ServiceFactory.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/init/DataInitializer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/model/Region.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/model/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/repository/RegionRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/repository/UserRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/service/AuthService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/service/EmailService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/service/InMemoryTokenStore.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/service/PasswordResetTokenStore.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/service/SmtpEmailService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/service/WeatherService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/util/HibernateUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/util/JwtUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/wcody/util/WeatherImageUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/regions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2w7iROaAE2tOX6cTBKZeXexzkSl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.'wcody'에 있는 테스트.executor": "Run",
+    "Gradle.wcody 빌드.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\김호정\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="e3a79bfa-c354-4cc3-928f-e94ebf902954" reportId="wcody/qodana/2025-05-08" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\김호정\IdeaProjects\wcody\frontend\public\weather-icons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="'wcody'에 있는 테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.wcody.MainKt" />
+      <module name="wcody.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Gradle.'wcody'에 있는 테스트" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="a5d7a5ff-5889-4f92-bd25-2f22ddf548db" name="변경" comment="" />
+      <created>1745399004748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745399004748</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
